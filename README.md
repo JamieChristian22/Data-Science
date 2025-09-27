@@ -4,9 +4,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 ![Tools](https://img.shields.io/badge/Tools-Jupyter%20Notebook%20|%20Python%20|%20Markdown-blue)  
 ![License](https://img.shields.io/badge/License-MIT-orange)  
+[![View Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/JamieChristian22/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JamieChristian22/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb)  
 
 This repository contains my **Jupyter Notebook assignment** for the *Tools for Data Science* course.  
-It demonstrates core concepts of the Data Science ecosystem, tools, and simple Python operations.  
+It demonstrates the **Data Science ecosystem, tools, and simple Python operations**.  
 
 ---
 
